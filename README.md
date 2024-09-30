@@ -125,16 +125,3 @@ This tutorial outlines the prerequisites and installation of the open-source hel
     <li>End Users URL: <a href="http://localhost/osTicket/">http://localhost/osTicket/</a></li>
   </ul>
 </ol>
-
-<h2>7. Clean up files that pose a security risk</h2>
-<ol>
-  <li>Delete: C:\inetpub\wwwroot\osTicket\setup.</li>
-  <li>Set Permissions to “Read” only: C:\inetpub\wwwroot\osTicket\include\ost-config.php.</li>
-</ol>
-
-
-
-
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
